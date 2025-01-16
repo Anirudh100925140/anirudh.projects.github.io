@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.project-link {
+    margin: 20px 0;
+    padding: 15px;
+    border: 2px solid #333;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.project-link h2 {
+    margin-bottom: 10px;
+}
+
+.project-link button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.project-link button:hover {
+    background-color: #0056b3;
+}
